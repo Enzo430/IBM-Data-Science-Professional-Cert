@@ -7,16 +7,11 @@ In this module, you will learn about why we are interested in data science, what
 
 ### key Concepts
 
-   +Learn about why we are interested in data science.
-   
-   +Learn what a methodology is, and why data scientists need a methodology.
-   
-   *Learn about the data science methodology and its flowchart.
-   
-   *Learn about the Business Understaning, the Analytic Approach, the Data Requirements, and the Data Understanding stages of the data science methodology.
-   
-   *Learn about what occurs during data collection.
-   
-   *Learn how to complete the Business Understanding and the Analytic Approach stages pertaining to any data science problem.
-   
-   *Learn how to complete the Data Requirements and the Data Collection stages pertaining to any data science problem.
+   * Learn about why we are interested in data science.
+   * Learn what a methodology is, and why data scientists need a methodology.
+   * Learn about the data science methodology and its flowchart.
+   * Learn about the Business Understaning, the Analytic Approach, the Data Requirements, and the Data Understanding stages of the data science methodology.
+   * Learn about what occurs during data collection. 
+   * Learn how to complete the Business Understanding and the Analytic Approach stages pertaining to any data science problem.
+   * Learn how to complete the Data Requirements and the Data Collection stages pertaining to any data science problem.
+ 
